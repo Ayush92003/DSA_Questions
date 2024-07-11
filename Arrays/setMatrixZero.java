@@ -1,3 +1,4 @@
+// Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 public class setMatrixZero {
     public static void print(int[][]arr){
         for(int[]ans : arr){
