@@ -1,2 +1,2 @@
-# Medium
+# Medium Level
 [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
