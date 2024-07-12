@@ -4,3 +4,6 @@
 -[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 <br>
 -[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+<br>
+[Next Permutation](https://leetcode.com/problems/next-permutation/)
+
