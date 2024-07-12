@@ -5,5 +5,5 @@
 <br>
 -[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 <br>
-[Next Permutation](https://leetcode.com/problems/next-permutation/)
+-[Next Permutation](https://leetcode.com/problems/next-permutation/)
 
