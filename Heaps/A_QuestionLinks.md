@@ -4,5 +4,10 @@
 -[Nearly Sorted Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
 <br>
 -[K Closest Points to Origin - LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/)
+<br>
+-[Find K Closest Elements - LeetCode](https://leetcode.com/problems/find-k-closest-elements/)
+<br>
+-[Top K Frequent Elements - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
+
 
 
