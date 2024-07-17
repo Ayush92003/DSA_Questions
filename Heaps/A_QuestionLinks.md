@@ -10,6 +10,8 @@
 -[Top K Frequent Elements - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
 
 # Hard Level
-[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+-[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+<br>
+-[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 
 
