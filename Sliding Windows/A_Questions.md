@@ -6,4 +6,6 @@
 -[Max Consecutive Ones III - LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/)
 <br>
 -[Grumpy Bookstore Owner - LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/description/)
+<br>
+-[Minimum Size Subarray Sum - LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
